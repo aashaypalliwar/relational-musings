@@ -1,0 +1,5 @@
+A,B,C,D,E,G
+A,B->C
+C->D
+A->E
+D->G

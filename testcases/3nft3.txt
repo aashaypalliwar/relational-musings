@@ -1,0 +1,4 @@
+emp_ssn, pno, esal, ephone, dno, pname, ploc
+emp_ssn->esal,ephone,dno
+pno->pname,ploc
+emp_ssn,pno->esal,ephone,dno,pname,ploc

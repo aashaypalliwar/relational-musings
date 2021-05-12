@@ -1,0 +1,56 @@
+---------------
+3nft1.txt - 3NF LJ DP
+A B C
+A E
+C D
+D G
+---------------
+
+---------------
+3nft2.txt - 3NF LJ DP
+A C
+B D E
+A B
+---------------
+
+---------------
+3nft3.txt - 3NF LJ DP
+emp_ssn esal ephone dno
+pno pname ploc
+emp_ssn pno
+---------------
+
+---------------
+3nft4.txt - 3NF LJ DP
+A C 
+A P 
+C L P 
+---------------
+
+---------------
+bcnft1.txt - BCNF LJ
+student instructor
+instructor course
+---------------
+
+---------------
+bcnft2.txt - BCNF LJ
+C D
+D B
+C A
+---------------
+
+---------------
+ljt1.txt - LJ test
+false
+---------------
+
+---------------
+ljt2.txt - LJ test
+true
+---------------
+
+---------------
+ljt3.txt - LJ test
+true
+---------------

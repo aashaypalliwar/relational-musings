@@ -1,0 +1,6 @@
+ssn, ename, pno, pname, ploc, hr
+ename, ploc
+ssn, pno, hr, pname, ploc
+ssn->ename
+pno->pname,ploc
+ssn, pno->hr

@@ -1,0 +1,11 @@
+A,B,C,D,E
+A,D
+A,B
+B,E
+C,D,E
+A,E
+A->C
+B->C
+C->D
+D,E->C
+C,E->A

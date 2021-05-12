@@ -1,0 +1,3 @@
+student, course, instructor
+student, course -> instructor
+instructor -> course

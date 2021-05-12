@@ -1,0 +1,4 @@
+L,C,A,P
+P->L,C,A
+L,C->A,P
+A->C
